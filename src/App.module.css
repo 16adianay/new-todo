@@ -1,0 +1,10 @@
+* {
+    font-family: 'Open Sans', Arial, sans-serif !important;
+}
+
+.app {
+    background-color: #f9f9f9;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
