@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a37909d-691d-402b-b38e-e0187b00c329" name="Changes" comment="" />
+    <list default="true" id="2a37909d-691d-402b-b38e-e0187b00c329" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/empty-state/EmptyState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/empty-state/EmptyState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form/AddListForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form/AddListForm.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/list/List.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/list/List.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.module.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zg5kqfuoKyoIpKJ0Sq7x7NxQ72" />
   <component name="ProjectViewState">
