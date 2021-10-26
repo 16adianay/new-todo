@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/new-todo/static/css/main.e263d311.chunk.css",
-    "main.js": "/new-todo/static/js/main.8dabb89b.chunk.js",
-    "main.js.map": "/new-todo/static/js/main.8dabb89b.chunk.js.map",
+    "main.css": "/new-todo/static/css/main.dda04b22.chunk.css",
+    "main.js": "/new-todo/static/js/main.77fb04cc.chunk.js",
+    "main.js.map": "/new-todo/static/js/main.77fb04cc.chunk.js.map",
     "runtime-main.js": "/new-todo/static/js/runtime-main.5ab0a61b.js",
     "runtime-main.js.map": "/new-todo/static/js/runtime-main.5ab0a61b.js.map",
     "static/js/2.7c1e0224.chunk.js": "/new-todo/static/js/2.7c1e0224.chunk.js",
     "static/js/2.7c1e0224.chunk.js.map": "/new-todo/static/js/2.7c1e0224.chunk.js.map",
     "index.html": "/new-todo/index.html",
-    "static/css/main.e263d311.chunk.css.map": "/new-todo/static/css/main.e263d311.chunk.css.map",
+    "static/css/main.dda04b22.chunk.css.map": "/new-todo/static/css/main.dda04b22.chunk.css.map",
     "static/js/2.7c1e0224.chunk.js.LICENSE.txt": "/new-todo/static/js/2.7c1e0224.chunk.js.LICENSE.txt",
     "static/media/GNOME_Todo_icon_2019.76261878.svg": "/new-todo/static/media/GNOME_Todo_icon_2019.76261878.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5ab0a61b.js",
     "static/js/2.7c1e0224.chunk.js",
-    "static/css/main.e263d311.chunk.css",
-    "static/js/main.8dabb89b.chunk.js"
+    "static/css/main.dda04b22.chunk.css",
+    "static/js/main.77fb04cc.chunk.js"
   ]
 }
